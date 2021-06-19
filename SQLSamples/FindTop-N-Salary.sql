@@ -16,6 +16,8 @@
 --	FOREIGN KEY (manager_id) REFERENCES employees (employee_id)
 --);
 
+--
+
 SELECT Top(1) a.salary 
 From (
 	Select Top(13) salary 
