@@ -59,5 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="FindTop-N-Salary.sql" />
+    <None Include="LoanAged6Months.sql" />
+    <None Include="NoMoreThan2DefermentsInAYear.sql" />
   </ItemGroup>
 </Project>
